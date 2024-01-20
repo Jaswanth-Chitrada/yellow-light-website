@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,500;1,100&display=swap');
+
+
+*{
+    font-style:italic;
+}
+.logo{
+    margin-left: 4px;
+}
+
+.main{
+    background-color: black;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.cloc{
+    background-color: white;
+}
+
+.foot{
+    height :15vh;
+    text-align: center;
+    color: rgb(144, 144, 144);
+    padding-top:5vh ;
+    padding-bottom:2px ;
+}
+.oh{
+    align-items: center;
+
+}
+.vis{
+    margin-top:70px ;
+}
